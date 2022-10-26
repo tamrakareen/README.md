@@ -20,6 +20,7 @@ I'm a DevOps Engineer based in Denver, CO.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tamra-sherwood)
 - 😄 Pronouns: She/her
 
+---
 
 <details><summary> Fun facts about me</summary>
   
