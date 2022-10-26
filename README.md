@@ -5,6 +5,7 @@
 
 --> 
 I'm a DevOps Engineer based in Denver, CO.
+
 ⬅️ This is my cavapoo, Whiskey. 
 
 - 🔭 I’m currently working at Azena Life Sciences
