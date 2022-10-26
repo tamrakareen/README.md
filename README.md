@@ -1,12 +1,15 @@
-### Hi there 👋
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tamra!
 
 <!--
 **tamrakareen/tamrakareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
---> 
 I'm a DevOps Engineer based in Denver, CO.
 
 ⬅️ This is my cavapoo, Whiskey. 
+
+---
 
 - 🔭 I’m currently working at Azena Life Sciences
 - 🌱 I’m currently loving Docker and Kubernetes
@@ -29,6 +32,11 @@ I'm a DevOps Engineer based in Denver, CO.
  
 </details>
 
+---
+
+### 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/slack-2.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="CSS Logo" width="50" height="50"/>
 
 Need a joke today?
 <!-- Markdown -->
