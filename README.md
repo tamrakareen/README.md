@@ -16,4 +16,7 @@ I'm a DevOps Engineer based in Denver, CO.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to swim in very cold water, 
 
+Need a joke today?
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
