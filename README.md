@@ -14,7 +14,19 @@ I'm a DevOps Engineer based in Denver, CO.
 - 💬 Ask me about Bootcamp and WGU Program 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to swim in very cold water, 
+
+
+<details><summary> Fun facts about me</summary>
+  
+      * I'm an open water swimmer (sometimes the water is 45 degrees), 
+        my last race was in Alaska
+  
+      * I play the piano
+  
+      * My nine year old is my programming boss (I write a lot of spy missions)
+ 
+</details>
+
 
 Need a joke today?
 <!-- Markdown -->
