@@ -12,7 +12,7 @@ I'm a DevOps Engineer based in Denver, CO.
 - 🌱 I’m currently loving Docker and Kubernetes
 - ⚙️ I use daily: VSCode, GitLab, AWS, Python, Linux Terminal
 - 👯 I’m looking to collaborate on ANYTHING!
-- 🤔 I’m looking to expand my skills in Python
+- 🤔 I’m looking to expand my skills in Azure and Google cloud
 - 💬 Ask me about Bootcamp and WGU Program
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tamra-sherwood)
 - 😄 Pronouns: She/her
